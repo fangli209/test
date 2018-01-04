@@ -1,22 +1,13 @@
-dsdf
+dfsd
+s
+df
+sdsdf
 sdf
 s
-f
-sfa
-1=2
 1
-1
-sdf
-sdfsd
-f
-sdfsdsdf
-sdf
-sdf121
-1
-1
-1
-1
+<<<<<<< HEAD
+111
 
-1
-1
-
+=======
+11111
+>>>>>>> dev
